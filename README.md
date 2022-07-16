@@ -29,7 +29,7 @@
   <img src="https://www.php.net/images/logos/new-php-logo.svg" title="PHP" alt="PHP" width="80" height="40"/>&nbsp;
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" title="MySQL" alt="MySQL" width="60" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="60" height="40"/>&nbsp;
-  <img src="https://icon-library.com/images/node-js-icon/node-js-icon-29.jpg" title="Node" alt="Node" width="100" height="40"/>&nbsp;
+  <img src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" title="Express" alt="Express" width="100" height="40"/>&nbsp;
   <img src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" title="Mongodb" alt="Mongodb" width="80" height="40"/>&nbsp;
     <img src="https://www.citypng.com/public/uploads/preview/-51614553751eqfwcgwj8d.png" title="Blockchain" alt="Blockchain" width="40" height="40"/>&nbsp;
