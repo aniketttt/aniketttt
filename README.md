@@ -33,6 +33,9 @@
   <img src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" title="Express" alt="Express" width="100" height="40"/>&nbsp;
   <img src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" title="Mongodb" alt="Mongodb" width="80" height="40"/>&nbsp;
     <img src="https://www.citypng.com/public/uploads/preview/-51614553751eqfwcgwj8d.png" title="Blockchain" alt="Blockchain" width="40" height="40"/>&nbsp;
+    <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" title="AWS" alt="AWS" width="100" height="40"/>&nbsp;
+    <img src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png" title="Docker" alt="Docker" width="60" height="40"/>&nbsp;
+
 </div>
 
 <hr>
