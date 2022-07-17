@@ -19,7 +19,17 @@
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+- :telescope: I’m a Fresher looking forward to get hired so I'm able to contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring New Technical Skills.
+
+- :zap: In my free time, I solve my project related problems and read tech articles.
+
+- :mailbox:How to reach me: aniketsharma8800@gmail.com
+
+<hr>
+
+### :hammer_and_wrench: Languages and Tools : Learning in Progress...
 <div>
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://1.bp.blogspot.com/-cAYMoRZLNFk/XsgzjaoT11I/AAAAAAAAEgI/93qsBujBM6QM8ncQo6hv5vF0eTMq4vMqgCK4BGAsYHg/python.png)" title="Python" alt="Python" width="40" height="40"/>&nbsp;
