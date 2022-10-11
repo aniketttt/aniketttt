@@ -56,5 +56,5 @@
 <hr>
 
 ### :fire: My Most Used languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketttt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketttt)](https://github.com/aniketttt/github-readme-stats)
 
