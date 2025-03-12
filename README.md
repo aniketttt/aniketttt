@@ -19,9 +19,9 @@
 
 <hr>
 
-- :telescope: I’m a Fresher looking forward to get hired so I'm able to contributing to frontend and backend for building web applications.
+- :telescope: I am Cloud Security Engineer, helping companies to adopt security in Cloud and Security in Devops(DevSecOps).
 
-- :seedling: Exploring New Technical Skills.
+- :seedling: Learning New Technical Skills Daily.
 
 - :zap: In my free time, I solve my project related problems and read tech articles.
 
